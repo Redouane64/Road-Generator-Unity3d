@@ -8,4 +8,4 @@ See example scene in scene folder named 'demo'
 
 ## Screenshot
 
-!(https://github.com/Redouane64/Road-Generator-Unity3d/blob/master/screenshot.png)
+![](https://github.com/Redouane64/Road-Generator-Unity3d/blob/master/screenshot.png?raw=true)
