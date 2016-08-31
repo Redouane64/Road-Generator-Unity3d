@@ -23,17 +23,8 @@ public class RoadGenerator : MonoBehaviour {
 	private Queue<Transform> chunks;
 
 	// reference to chunk that the player is on
-#if DEBUG
-	[SerializeField]
-#endif
 	private Transform currentChunk;
-#if DEBUG
-	[SerializeField]
-#endif
 	private int indexOfCurrentChunk;
-#if DEBUG
-	[SerializeField]
-#endif
 	private int currentChunkPosition = 0;
 
 	private void Awake()
@@ -55,7 +46,7 @@ public class RoadGenerator : MonoBehaviour {
 	}
 	 
 	private void Start () {
-
+		
 	}
 	
 	private void FixedUpdate () {
