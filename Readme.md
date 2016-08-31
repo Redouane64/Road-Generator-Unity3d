@@ -5,3 +5,7 @@ Road Generator is script for Unity3d that allows you to generate procedural path
 ## Usage
 
 See example scene in scene folder named 'demo'
+
+## Screenshot
+
+!(https://github.com/Redouane64/Road-Generator-Unity3d/blob/master/screenshot.png)
