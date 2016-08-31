@@ -5,8 +5,8 @@ public class FollowCamera : MonoBehaviour {
 
     public float damping = 4f;
     public Transform target;
-    public float distance = 4f;
-    public float height = 1.5f;
+    public float distance = 9f;
+    public float height = 3f;
 
     private Vector3 cameraPosition;
     private Vector3 newFollowPosition;
